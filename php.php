@@ -11,3 +11,5 @@ echo "Datos enviado correctamente";
 // valiables a tener en cuenta en resultado
 $resultado= mysqli_query($con, $sentencia);
 ?>
+
+<!-- test -->
