@@ -12,5 +12,4 @@ echo "Datos enviado correctamente";
 $resultado= mysqli_query($con, $sentencia);
 ?>
 
-<!-- test -->
-<!-- dfasdfa -->
+<!-- Pruebita de modificacion con atom -->
